@@ -7,3 +7,9 @@
 
 ![image](./asset/phase1.jpeg)
 
+
+### Phase 2
+#### Connect RESTy with APIs, running live requests
+#### , we will be connecting RESTy to live APIs, fetching and displaying remote data. Our primary focus will be to service GET request
+
+![image](./asset/phase2.jpeg)
