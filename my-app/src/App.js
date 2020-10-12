@@ -27,6 +27,7 @@ class Form extends React.Component {
   }
 
   handleClickGO = e => {
+    e.preventDefault();
     this.setState({url: this.state.urltemp});
     this.setState({ _method: this.state.methodtemp});
   
